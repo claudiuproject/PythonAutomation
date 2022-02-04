@@ -9,7 +9,7 @@ valueTrue = "True"
 
 
 #Api Call ...
-url = "https://aa161875-9a3b-4bcf-9b1b-5005a4c7bb04.mock.pstmn.io/openidm/repo/synchronisation/pooledSyncStage/SYSTEMMPDBACCOUNT"
+url = "https://Test2"
 
 payload={}
 headers = {}
